@@ -1,0 +1,30 @@
+p {text-align: left; font-size: 30px !important;}
+h2 {font-size: 60px !important; margin-bottom: 20px;}
+.critical {
+	color: #cf5022 !important;
+}
+.major {
+	color: #ffd943 !important;
+}
+.minor {
+	color: #43a7ff !important;
+}
+.reveal .slides {
+    max-width: 950px;
+    margin: 0 auto;
+}
+li {
+    margin-bottom: 20px;
+}
+li:last-child {
+    margin-bottom: 0px;
+}
+code {
+    background: #ccc;
+    color: #111;
+    padding: 5px 10px;
+    font-size: 30px;
+}
+h1 {
+    font-size: 50px !important;
+}
